@@ -1,6 +1,6 @@
-<h1>Organick Fresh</h1>
+<h1>Organick 🌿</h1>
 
-  <p><strong>Organick Fresh</strong>, doğallığı ve tazeliği tasarımda ön plana çıkaran modern bir web tasarım projesidir. Bu proje, kullanıcı dostu bir arayüzle organik ürün konseptini yansıtarak estetik ve işlevselliği bir araya getirir.</p>
+  <p><strong>Organick</strong>, temiz, responsive ve şık bir kullanıcı deneyimi sunan, tasarım odaklı tek sayfalık bir web sitesidir. Proje, minimal bir yaklaşımla modern ve göz alıcı bir tasarım sunarak tüm cihazlarda kusursuz bir uyum sağlar.</p>
 
   <h2>Proje Hakkında</h2>
   <p>Organick Fresh, modern ve organik temalı bir web tasarım projesidir. Tasarımında sadelik ve doğallığı harmanlayarak, kullanıcı deneyimini ön planda tutar. Bu proje, HTML, CSS, SCSS ve Bootstrap kullanılarak oluşturulmuş olup, minimal bir JavaScript kodu ile zenginleştirilmiştir.</p>
