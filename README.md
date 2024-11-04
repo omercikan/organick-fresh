@@ -19,7 +19,7 @@
   <ol>
       <li><strong>Projeyi Kopyala</strong>: GitHub reposundan projeyi bilgisayarınıza klonlayın.
         <br><br>
-          <pre><code>git clone https://github.com/yourusername/organick-fresh.git</code></pre>
+          <pre><code>git clone https://github.com/omercikan/organick-fresh.git</code></pre>
       </li>
       <li><strong>Bağımlılıkları Yükle</strong>: Proje dizininde gerekli paketleri yükleyin.
          <br><br>
