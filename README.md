@@ -26,11 +26,6 @@
           <pre><code>cd organick-fresh
 npm install</code></pre>
       </li>
-      <li><strong>Geliştirme Sunucusunu Başlat</strong>: Projeyi yerel olarak çalıştırmak için geliştirme sunucusunu başlatın.
-         <br><br>
-          <pre><code>npm start</code></pre>
-      </li>
-      <li><strong>Projeyi Görüntüle</strong>: Tarayıcınızda <code>http://localhost:3000</code> adresine giderek projeyi görüntüleyebilirsiniz.</li>
   </ol>
 
   <h2>Daha Fazla Detay</h2>
